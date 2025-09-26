@@ -1,0 +1,4 @@
+include guachi/*.py
+include docs/*
+include README.rst
+include setup.py
